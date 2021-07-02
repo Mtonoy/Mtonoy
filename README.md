@@ -14,7 +14,7 @@ Hi, I'm [MD. Mahamudul Hasan Tonoy](https://mtonoy.github.io/tonoy/), a passiona
 
 - Databases - **MSSQL(SQL Server), mySQL, PostgreSQL** 
 
-- Tools - **Postman, Fiddler, Axure, Git, Trello **
+- Tools - **Postman, Fiddler, Axure, Git, Trello**
 
 - Agile Methodologies - **SCRUM**
   
