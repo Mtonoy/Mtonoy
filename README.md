@@ -14,7 +14,7 @@ Hi, I'm [MD. Mahamudul Hasan Tonoy](https://mtonoy.github.io/tonoy/), a passiona
 
 - Databases - **MSSQL(SQL Server), mySQL, PostgreSQL** 
 
-- Tools - **Git, Trello, Postman, Axure**
+- Tools - **Postman, Fiddler, Axure, Git, Trello **
 
 - Agile Methodologies - **SCRUM**
   
@@ -34,11 +34,16 @@ Hi, I'm [MD. Mahamudul Hasan Tonoy](https://mtonoy.github.io/tonoy/), a passiona
 - 💼 Any freelance work? Do reach, [email](mailto:tonoy300@gmail.com)
 - 💬 Ask me about anything, I am happy to help.
 
+# Social Media #
 
-
-<br>
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mtonoy)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mtonoy/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_tonoy300/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahamudul.hasantonoy)
 
 
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mtonoy&show_icons=true&theme=gotham" alt="mtonoy" />
+  
+
