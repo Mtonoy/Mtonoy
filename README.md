@@ -20,7 +20,11 @@ I'm [MD. Mahamudul Hasan Tonoy](https://mtonoy.github.io/tonoy/), a passionate F
   
 # Experience #
 - Senior Software Engineer<br>
-    [Opus Technology Ltd.](https://opus-bd.com/)(Jan 2021 – Present)<br>
+    [One Information And Communications Technology Limited (ONEICT LTD).](https://www.oneictltd.com/)(Mar 2022 – Present )<br>
+    Dhaka, Bangladesh
+    
+- Senior Software Engineer<br>
+    [Opus Technology Ltd.](https://opus-bd.com/)(Jan 2021 – Feb 2022)<br>
     Dhaka, Bangladesh
     
 - Software Engineer<br>
