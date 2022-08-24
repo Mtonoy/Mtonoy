@@ -10,7 +10,7 @@ I'm [MD. Mahamudul Hasan Tonoy](https://mtonoy.github.io/tonoy/), a passionate F
 
 - Libraries/Frameworks - **ASP.Net Core, Entiry Freamwork Core, Laravel, REST APIs, jQuery, D3.js, Chart.js**
 
-- Scripting/Markup Languages - **JavaScript, HTML5, CSS3, SASS, JSON.**
+- Scripting/Markup Languages - **Angular 10, JavaScript, HTML5, CSS3, SASS, JSON.**
 
 - Databases - **MSSQL(SQL Server), mySQL, PostgreSQL** 
 
