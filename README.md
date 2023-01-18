@@ -48,6 +48,8 @@ I'm [MD. Mahamudul Hasan Tonoy](https://mtonoy.github.io/tonoy/), a passionate F
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mtonoy&show_icons=true&theme=gotham&count_private=true" alt="mtonoy" />
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mtonoy&show_icons=true&locale=en" alt="Tonoy github stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtonoy&show_icons=true&locale=en&layout=compact" alt="Tonoy github Language stats" /></p>
   
 
