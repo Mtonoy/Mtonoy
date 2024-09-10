@@ -10,7 +10,7 @@ I'm [MD. Mahamudul Hasan Tonoy](https://mtonoy.github.io/tonoy/), a passionate F
 
 - Libraries/Frameworks - **ASP.Net Core, Entiry Freamwork Core, Laravel, REST APIs, jQuery, D3.js, Chart.js**
 
-- Scripting/Markup Languages - **Angular 10, JavaScript, HTML5, CSS3, SASS, JSON.**
+- Scripting/Markup Languages - **Angular 10, Angular JS, JavaScript, HTML5, CSS3, SASS, JSON.**
 
 - Databases - **MSSQL(SQL Server), mySQL, PostgreSQL** 
 
@@ -19,8 +19,13 @@ I'm [MD. Mahamudul Hasan Tonoy](https://mtonoy.github.io/tonoy/), a passionate F
 - Agile Methodologies - **SCRUM**
   
 # Experience #
+
+- Software Engineer<br>
+    [ASA Bangladesh.](https://asa.org.bd/)(Jul 2024 – Present )<br>
+    Dhaka, Bangladesh
+  
 - Senior Software Engineer<br>
-    [One Information And Communications Technology Limited (ONEICT LTD).](https://www.oneictltd.com/)(Mar 2022 – Present )<br>
+    [One Information And Communications Technology Limited (ONEICT LTD).](https://www.oneictltd.com/)(Mar 2022 – Jul 2024 )<br>
     Dhaka, Bangladesh
     
 - Senior Software Engineer<br>
